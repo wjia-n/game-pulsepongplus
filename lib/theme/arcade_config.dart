@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'pulsepongplusmuffin',
   tip2Id: 'pulsepongpluschocolate',
-  tip1Label: '💛 Buy me a muffin',
-  tip2Label: '💛 Buy me a chocolate',
+  tip1Label: '💛 Pulse Pong Plus — buy me a muffin',
+  tip2Label: '💛 Pulse Pong Plus — buy me a chocolate',
 );
